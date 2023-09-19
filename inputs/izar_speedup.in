@@ -1,0 +1,8 @@
+// The program input for izar_protocol/src/main.leo
+[speed_up]
+public tx_id: field = 1field;
+fee: credits = credits {
+    owner: aleo1yu6ssnehj4plgznatenfut3hkrfus26kqd226k99wfx79jqmsuxqfernns,
+    microcredits: 10000000000u64,
+};
+
